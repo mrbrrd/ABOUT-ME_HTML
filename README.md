@@ -5,7 +5,7 @@ Assignment for CODE: YOU
 In this assignment, you will create a simple "About Me" page using some basic elements.
 # Introduction to Programming Exercise - About Me
 
-## Overview
+
  **You must complete the tasks**
 
 - [ ] Replace the content of the title tag to `About Me`
