@@ -6,7 +6,7 @@ In this assignment, you will create a simple "About Me" page using some basic el
 # Introduction to Programming Exercise - About Me
 
 ## Overview
-In this assignment, you will create a simple "About Me" page using some basic elements. **You must complete the tasks**
+ **You must complete the tasks**
 
 - [ ] Replace the content of the title tag to `About Me`
 - [ ] Create a `<h1>` tag and place your name inside the element.
